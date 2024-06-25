@@ -344,11 +344,11 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>320</x>
-                        <y>128</y>
+                        <x>32</x>
+                        <y>32</y>
                         <z>0</z>
-                        <width>64</width>
-                        <height>60</height>
+                        <width>32</width>
+                        <height>32</height>
                         <depth>0</depth>
                         <hotspotX>0.5</hotspotX>
                         <hotspotY>1</hotspotY>
